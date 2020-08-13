@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.github.zuihou</groupId>
+    <groupId>com.github.faydan</groupId>
     <artifactId>faydan-common</artifactId>
     <version>1.0.0</version>
     <packaging>pom</packaging>
@@ -52,6 +52,7 @@
         <developerConnection>scm:git@github.com:Faydan/faydan-common.git</developerConnection>
         <url>git@github.com:Faydan/faydan-common.git</url>
     </scm>
+
 
     <distributionManagement>
         <snapshotRepository>
